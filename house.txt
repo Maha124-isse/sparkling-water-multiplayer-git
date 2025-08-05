@@ -8,10 +8,10 @@
 |    |__|__|                           |__|__|    |
 |    |__|__|                           |__|__|    |
 |                                                 |
-|                                                 | 
-|    _______                           _______    |
-|    |__|__|                           |__|__|    |
-|    |__|__|                           |__|__|    |
-|                                                 | 
-|                                                 |
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+|                 _______                         | 
+|    _______     /       \              _______   |
+|    |__|__|     |       |              |__|__|   |
+|    |__|__|     |      O|              |__|__|   |
+|                |       |                        | 
+|                |       |                        |
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
